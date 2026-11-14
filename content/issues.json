@@ -1,0 +1,77 @@
+{
+  "_readme": [
+    "Every Issue the site knows about without Eventbrite, plus the words Eventbrite cannot supply.",
+    "With Eventbrite connected, dates, times, links and the agenda come from Eventbrite and win over this file.",
+    "This file always supplies: hook (cover line), blurb (archive line), and Issues that are not on Eventbrite.",
+    "Times are Winnipeg wall-clock times. Use start/end for a timed Issue, or date alone when only the day is known."
+  ],
+  "issues": [
+    {
+      "number": 13,
+      "start": "2026-11-25T18:00",
+      "end": "2026-11-25T21:00",
+      "url": "https://www.eventbrite.ca/e/wpg-ai-incubator-issue-13-tickets-1999778758098",
+      "free": true,
+      "spotlight": "Tad Einstein",
+      "hook": "The Slurpee Capital gets a brain freeze.",
+      "schedule": [
+        { "time": "18:00", "text": "Doors open, coffee and networking" },
+        { "time": "18:30", "strong": "Spotlight talk with Tad Einstein.", "text": "About 45 minutes, plus a short Q&A." },
+        { "time": "19:20", "text": "Quick break" },
+        { "time": "19:25", "strong": "Breakout rooms: Dream, Build, Execute.", "text": "About 35 minutes." },
+        { "time": "20:00", "text": "Quick reset" },
+        { "time": "20:05", "strong": "AI Show & Tell" },
+        { "time": "20:45", "text": "Wrap-up, done by 9:00 PM" }
+      ]
+    },
+    {
+      "number": 12,
+      "date": "2026-11-10",
+      "url": "https://www.eventbrite.ca/e/wpg-ai-incubator-issue-12-tickets-1999776946680"
+    },
+    {
+      "number": 11,
+      "subtitle": "AI x IP",
+      "date": "2026-10-28",
+      "blurb": "With North Forge, an evening on AI and intellectual property.",
+      "url": "https://www.eventbrite.ca/e/wpg-ai-incubator-issue-11-ai-x-ip-tickets-1999776674867"
+    },
+    {
+      "number": 10,
+      "date": "2026-10-14",
+      "url": "https://www.eventbrite.ca/e/wpg-ai-incubator-issue-10-tickets-1999775950701"
+    },
+    {
+      "number": 9,
+      "date": "2026-09-16",
+      "url": "https://www.eventbrite.ca/e/wpg-ai-incubator-issue-9-tickets-1999771071106"
+    },
+    {
+      "number": 5,
+      "subtitle": "30-Day AI Briefing + Builder Lab",
+      "date": "2026-06-24",
+      "url": "https://www.eventbrite.ca/e/ai-incubator-tickets-1991071054121"
+    },
+    {
+      "number": 4,
+      "subtitle": "Builder Lab session",
+      "date": "2026-06-03"
+    },
+    {
+      "number": 3,
+      "subtitle": "Guest founder session",
+      "date": "2026-05-13"
+    },
+    {
+      "number": 2,
+      "subtitle": "Prompt engineering deep-dive",
+      "date": "2026-04-16"
+    },
+    {
+      "number": 1,
+      "subtitle": "Launch night",
+      "date": "2026-04-02",
+      "url": "https://www.eventbrite.ca/e/1985175362950"
+    }
+  ]
+}

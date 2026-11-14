@@ -1,0 +1,46 @@
+{
+  "name": "WPG AI Incubator",
+  "tagline": "Dream. Build. Execute.",
+  "intro": "WPG AI Incubator is a Winnipeg community where people come together to explore AI, build practical things and learn from each other.",
+  "roots": "Local roots. People building real things together.",
+  "contactEmail": "hello@wpgincubator.ai",
+  "venue": {
+    "address": "158 Commerce Drive",
+    "city": "Winnipeg",
+    "region": "MB",
+    "country": "CA"
+  },
+  "usualHours": "6:00 to 9:00 PM",
+  "utcOffset": "-05:00",
+  "eventbriteOrganizerUrl": "https://www.eventbrite.ca/o/atlas-elevated-labs-121133795271",
+  "social": [
+    {
+      "name": "Instagram",
+      "label": "Instagram: @wpg.ai.incubator",
+      "url": "https://www.instagram.com/wpg.ai.incubator/"
+    },
+    {
+      "name": "LinkedIn",
+      "label": "LinkedIn: WPG AI Incubator",
+      "url": ""
+    }
+  ],
+  "organizers": [
+    {
+      "name": "Justin Roper",
+      "initials": "JR"
+    },
+    {
+      "name": "Louwie Santiago",
+      "initials": "LS"
+    },
+    {
+      "name": "Darryl De Leon",
+      "initials": "DD"
+    },
+    {
+      "name": "Curtis Dery",
+      "initials": "CD"
+    }
+  ]
+}
