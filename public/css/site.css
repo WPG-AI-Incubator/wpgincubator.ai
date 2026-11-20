@@ -281,7 +281,7 @@ input.field{min-height:58px;padding:0 16px}
 .about__rule{margin:16px 0 0;max-width:35rem;font-size:1.125rem;line-height:1.6;font-weight:800}
 .about__people{flex:1 1 360px;min-width:0}
 .about__people-title{margin:0 0 18px;font-family:var(--font-label);font-weight:400;text-transform:uppercase;letter-spacing:.05em;font-size:1rem;line-height:1.2}
-.people{list-style:none;margin:0;padding:0;max-width:380px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
+.people{list-style:none;margin:0;padding:0;max-width:620px;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}
 .people>li{background:#F5F4F2;padding:16px;margin:0}
 .person__tile{position:relative;overflow:hidden;aspect-ratio:1 / 1;background:var(--ink);color:var(--cream);display:flex;align-items:flex-end;padding:12px 14px;margin-bottom:14px}
 .person__tone{position:absolute;right:0;bottom:0;width:100%;max-width:none;height:auto;opacity:.7;pointer-events:none}
