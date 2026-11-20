@@ -6,7 +6,7 @@
   "functions": {
     "api/index.js": {
       "maxDuration": 30,
-      "includeFiles": "{content,src}/**"
+      "includeFiles": "{content,src,public/brand}/**"
     }
   },
   "rewrites": [
